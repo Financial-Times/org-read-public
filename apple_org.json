@@ -1,1 +1,1536 @@
-{"id":"http://api.ft.com/things/2384fa7a-d514-3d6a-a0ea-3a711f66d0d8","apiUrl":"http://test.api.ft.com/organisations/2384fa7a-d514-3d6a-a0ea-3a711f66d0d8","prefLabel":"Apple, Inc.","types":["http://www.ft.com/ontology/company/Company","http://www.ft.com/ontology/organisation/Organisation","http://www.ft.com/ontology/company/PublicCompany"],"leiCode":"HWUPKR0MPOU8FGXBT394","labels":["Apple, Inc.","APPLE INC","Apple Inc.","Apple","Apple Computer, Inc.","Apple Canada","Apple Inc","Apple Computer","Apple Incorporated","Apple Computer Inc","Apple Computers"],"profile":"<body><p>Apple, Inc. designs, manufactures, and markets mobile communication and media devices, personal computers, portable digital music players, and sells a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. Its products and services include iPhone, iPad, iPod, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and accessories, service and support offerings. The company also sells and delivers digital content and applications through the iTunes Store, App Store, iBooks Store, and Mac App Store. It sells its products worldwide through its retail stores, online stores, and direct sales force and third-party cellular network carriers, wholesalers, retailers, and value-added resellers to the consumer and also sells third-party iPhone, iPad, Mac and iPod compatible products, including application software, and accessories, through its online and retail stores. The company was founded by Steven Paul Jobs, Steve Wozniak and Ronald Gerald Wayne on April 1, 1976 and is headquartered in Cupertino, CA.</p></body>","industryClassification":{"id":"http://api.ft.com/things/7a01c847-a9bd-33be-b991-c6fbd8871a46","apiUrl":"http://test.api.ft.com/things/7a01c847-a9bd-33be-b991-c6fbd8871a46","prefLabel":"Computer Hardware"},"subsidiaries":[{"id":"http://api.ft.com/things/3fd6ff2e-1ae8-320d-b522-0c232a5e89bb","apiUrl":"http://test.api.ft.com/organisations/3fd6ff2e-1ae8-320d-b522-0c232a5e89bb","prefLabel":"Beats Electronics LLC","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/c314e08e-e768-3a83-966f-b877983eb8ea","apiUrl":"http://test.api.ft.com/organisations/c314e08e-e768-3a83-966f-b877983eb8ea","prefLabel":"Semetric Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/5a6a3a13-6009-347f-ac97-f413f6ac3a67","apiUrl":"http://test.api.ft.com/organisations/5a6a3a13-6009-347f-ac97-f413f6ac3a67","prefLabel":"Mapsense, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/c2a33d36-d5a8-3efd-869e-ed2cb75eb3d9","apiUrl":"http://test.api.ft.com/organisations/c2a33d36-d5a8-3efd-869e-ed2cb75eb3d9","prefLabel":"AuthenTec, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/5615216c-8b0f-3f9b-a502-922f7bf390d0","apiUrl":"http://test.api.ft.com/organisations/5615216c-8b0f-3f9b-a502-922f7bf390d0","prefLabel":"PrimeSense Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/379f7ac0-d79c-3a85-ab51-bd5f03af4b84","apiUrl":"http://test.api.ft.com/organisations/379f7ac0-d79c-3a85-ab51-bd5f03af4b84","prefLabel":"Apple Sales International","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/adbe77cf-d724-3567-8820-a7c6ac35d8b2","apiUrl":"http://test.api.ft.com/organisations/adbe77cf-d724-3567-8820-a7c6ac35d8b2","prefLabel":"Power Computing Corp.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/860b04ca-09e2-3f7b-8c21-3dd8249c6aea","apiUrl":"http://test.api.ft.com/organisations/860b04ca-09e2-3f7b-8c21-3dd8249c6aea","prefLabel":"Propel Software Corp.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/c5501c28-44a4-3a32-9735-1f33239bbc75","apiUrl":"http://test.api.ft.com/organisations/c5501c28-44a4-3a32-9735-1f33239bbc75","prefLabel":"P.A. Semi, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/4974af9a-6010-3d48-8650-8116c592d442","apiUrl":"http://test.api.ft.com/organisations/4974af9a-6010-3d48-8650-8116c592d442","prefLabel":"la la media, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/68c4b58c-6ad2-3fa6-9d71-1a7df8055ad4","apiUrl":"http://test.api.ft.com/organisations/68c4b58c-6ad2-3fa6-9d71-1a7df8055ad4","prefLabel":"Passif Semiconductor Corp.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/dd9d6f85-c7f7-3c4e-980a-addbbe6620cb","apiUrl":"http://test.api.ft.com/organisations/dd9d6f85-c7f7-3c4e-980a-addbbe6620cb","prefLabel":"LuxVue Technology Corp.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/2c9f09fc-7eab-3f20-be5f-4e567fe54eab","apiUrl":"http://test.api.ft.com/organisations/2c9f09fc-7eab-3f20-be5f-4e567fe54eab","prefLabel":"NeXt Software, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/8b73c7a4-df82-39d7-8756-861d3eee2c7e","apiUrl":"http://test.api.ft.com/organisations/8b73c7a4-df82-39d7-8756-861d3eee2c7e","prefLabel":"Nothing Real LLC","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/ed318f90-a33b-34d5-8419-f32d31c4e415","apiUrl":"http://test.api.ft.com/organisations/ed318f90-a33b-34d5-8419-f32d31c4e415","prefLabel":"Astarte GmbH","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/97785e85-afeb-30df-bbc4-695b0d11a39e","apiUrl":"http://test.api.ft.com/organisations/97785e85-afeb-30df-bbc4-695b0d11a39e","prefLabel":"Emagic.com LLC","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/b9b8fe9e-4bcb-31de-884f-650eace89ded","apiUrl":"http://test.api.ft.com/organisations/b9b8fe9e-4bcb-31de-884f-650eace89ded","prefLabel":"Zayante, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/4cf1fc6a-8c35-3931-b652-f9aaa869b340","apiUrl":"http://test.api.ft.com/organisations/4cf1fc6a-8c35-3931-b652-f9aaa869b340","prefLabel":"Xemplar Education Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/1a6ddca5-e701-399f-b542-e09578b8baa3","apiUrl":"http://test.api.ft.com/organisations/1a6ddca5-e701-399f-b542-e09578b8baa3","prefLabel":"Silicon Grail Corp","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/5528a226-bdc5-3946-b451-5d41e6e3ded4","apiUrl":"http://test.api.ft.com/organisations/5528a226-bdc5-3946-b451-5d41e6e3ded4","prefLabel":"Prismo Graphics","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/f8554141-84b0-3cc0-b0f4-23bf257d46aa","apiUrl":"http://test.api.ft.com/organisations/f8554141-84b0-3cc0-b0f4-23bf257d46aa","prefLabel":"Raycer Graphics, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/564afd82-fe29-3f0b-9ebb-a182b7120078","apiUrl":"http://test.api.ft.com/organisations/564afd82-fe29-3f0b-9ebb-a182b7120078","prefLabel":"Apple Canada, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/0f230b6d-fe4f-3e3f-9571-f072c24eb9dd","apiUrl":"http://test.api.ft.com/organisations/0f230b6d-fe4f-3e3f-9571-f072c24eb9dd","prefLabel":"Schema Software, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/dac26922-510f-3b43-a83e-c8461ff2f81a","apiUrl":"http://test.api.ft.com/organisations/dac26922-510f-3b43-a83e-c8461ff2f81a","prefLabel":"Apple Computer (UK) Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/a2dc9198-054d-336d-a7f9-ff60cee8fe6b","apiUrl":"http://test.api.ft.com/organisations/a2dc9198-054d-336d-a7f9-ff60cee8fe6b","prefLabel":"FileMaker, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/1880167f-95d5-3965-ae64-c4f4d801c11b","apiUrl":"http://test.api.ft.com/organisations/1880167f-95d5-3965-ae64-c4f4d801c11b","prefLabel":"Intrinsity, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/330080f5-63af-3b94-a46a-fdf95ba4e61f","apiUrl":"http://test.api.ft.com/organisations/330080f5-63af-3b94-a46a-fdf95ba4e61f","prefLabel":"Apple Computer Australia Pty Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/7207de4a-c0e9-367f-a691-3764d721fe82","apiUrl":"http://test.api.ft.com/organisations/7207de4a-c0e9-367f-a691-3764d721fe82","prefLabel":"Silicon Color, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/59ce2ef4-d2d2-3975-9c49-6c26652716e3","apiUrl":"http://test.api.ft.com/organisations/59ce2ef4-d2d2-3975-9c49-6c26652716e3","prefLabel":"Proximity Corp.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/e0140ab3-fcab-3fff-a366-a9fa60a40340","apiUrl":"http://test.api.ft.com/organisations/e0140ab3-fcab-3fff-a366-a9fa60a40340","prefLabel":"Anobit Technologies Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/99768298-ce8c-3345-bf81-0ea638914e86","apiUrl":"http://test.api.ft.com/organisations/99768298-ce8c-3345-bf81-0ea638914e86","prefLabel":"Quattro Wireless, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/70cf115a-a7d6-3115-8b40-fdc8a572c2cd","apiUrl":"http://test.api.ft.com/organisations/70cf115a-a7d6-3115-8b40-fdc8a572c2cd","prefLabel":"Hopstop.com, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/8771eed5-df87-34b7-a57c-33b2d1a51128","apiUrl":"http://test.api.ft.com/organisations/8771eed5-df87-34b7-a57c-33b2d1a51128","prefLabel":"Polar Rose AB","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/2a362233-2ac7-32d0-a1d6-061ac3931bec","apiUrl":"http://test.api.ft.com/organisations/2a362233-2ac7-32d0-a1d6-061ac3931bec","prefLabel":"Siri, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/1c2f0ae7-a5ac-3ca5-b215-b0b163a60dec","apiUrl":"http://test.api.ft.com/organisations/1c2f0ae7-a5ac-3ca5-b215-b0b163a60dec","prefLabel":"C3 Technologies AB","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/bdc05002-c738-31b6-97e3-67c099a1a5b8","apiUrl":"http://test.api.ft.com/organisations/bdc05002-c738-31b6-97e3-67c099a1a5b8","prefLabel":"Topsy Labs, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/2de30578-7576-36ab-916a-53cf81447298","apiUrl":"http://test.api.ft.com/organisations/2de30578-7576-36ab-916a-53cf81447298","prefLabel":"Chomp, Inc. (California)","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/27b858e5-e6c3-3cbf-8a76-3f09da231626","apiUrl":"http://test.api.ft.com/organisations/27b858e5-e6c3-3cbf-8a76-3f09da231626","prefLabel":"Burstly, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/4b544888-80f3-39b4-9bd6-0e1a5d23cc29","apiUrl":"http://test.api.ft.com/organisations/4b544888-80f3-39b4-9bd6-0e1a5d23cc29","prefLabel":"iFixit, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/c79c3493-b300-3bef-9eb7-74871880816e","apiUrl":"http://test.api.ft.com/organisations/c79c3493-b300-3bef-9eb7-74871880816e","prefLabel":"Poly9 Group, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/cbc17538-3692-321d-ae1d-42ddb7fddc16","apiUrl":"http://test.api.ft.com/organisations/cbc17538-3692-321d-ae1d-42ddb7fddc16","prefLabel":"Cue LLC","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/a9e61214-99d2-3570-899b-56abfcbcee00","apiUrl":"http://test.api.ft.com/organisations/a9e61214-99d2-3570-899b-56abfcbcee00","prefLabel":"Acunu Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/64d5debe-93f1-32b8-b905-ebc7a67e9a54","apiUrl":"http://test.api.ft.com/organisations/64d5debe-93f1-32b8-b905-ebc7a67e9a54","prefLabel":"Color Labs, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/bebe98bd-4149-36cd-ad39-eb0d55d7b5a7","apiUrl":"http://test.api.ft.com/organisations/bebe98bd-4149-36cd-ad39-eb0d55d7b5a7","prefLabel":"Locationary, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/26002ffc-5c46-32d2-b820-7b78fd8f4160","apiUrl":"http://test.api.ft.com/organisations/26002ffc-5c46-32d2-b820-7b78fd8f4160","prefLabel":"Coherent Navigation, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/da6539fa-a3fb-3f24-8e2a-8488cf50a8ad","apiUrl":"http://test.api.ft.com/organisations/da6539fa-a3fb-3f24-8e2a-8488cf50a8ad","prefLabel":"Placebase","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/918e6f25-1eb6-37a4-b2bf-4da80d11905b","apiUrl":"http://test.api.ft.com/organisations/918e6f25-1eb6-37a4-b2bf-4da80d11905b","prefLabel":"Bluebuzz com, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/421133ed-3ba3-3aa1-9445-f88393a9c676","apiUrl":"http://test.api.ft.com/organisations/421133ed-3ba3-3aa1-9445-f88393a9c676","prefLabel":"WiFiSLAM, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/db3f0a5e-9692-34a1-981d-ee779165a69c","apiUrl":"http://test.api.ft.com/organisations/db3f0a5e-9692-34a1-981d-ee779165a69c","prefLabel":"Redmatica SRL","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/120e8ff3-ff09-370d-9505-0fe96c87a062","apiUrl":"http://test.api.ft.com/organisations/120e8ff3-ff09-370d-9505-0fe96c87a062","prefLabel":"metaio GmbH","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/3e932803-fbc0-3ec2-bfef-51771e849b4d","apiUrl":"http://test.api.ft.com/organisations/3e932803-fbc0-3ec2-bfef-51771e849b4d","prefLabel":"AlgoTrim AB","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/d90be6d9-e941-3da4-a28d-e5339f7f896f","apiUrl":"http://test.api.ft.com/organisations/d90be6d9-e941-3da4-a28d-e5339f7f896f","prefLabel":"Particle Programmatica, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/ab7e28ae-e6ef-3e4f-9eb9-adf2d3cd404b","apiUrl":"http://test.api.ft.com/organisations/ab7e28ae-e6ef-3e4f-9eb9-adf2d3cd404b","prefLabel":"Simple Rules, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/63c8f4a4-cd71-3080-b9a1-b4dfab60ceef","apiUrl":"http://test.api.ft.com/organisations/63c8f4a4-cd71-3080-b9a1-b4dfab60ceef","prefLabel":"Apple India Pvt Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/e5c4c95c-148f-3a8b-97ee-32d671351c38","apiUrl":"http://test.api.ft.com/organisations/e5c4c95c-148f-3a8b-97ee-32d671351c38","prefLabel":"FoundationDB LLC","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/437275f6-80e1-3332-8a6b-900f0d1dda71","apiUrl":"http://test.api.ft.com/organisations/437275f6-80e1-3332-8a6b-900f0d1dda71","prefLabel":"Concept.io, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/f3409e2c-4aa7-3f43-86e4-7ae3bcd604fa","apiUrl":"http://test.api.ft.com/organisations/f3409e2c-4aa7-3f43-86e4-7ae3bcd604fa","prefLabel":"Embark, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/2fa78ba1-4e8a-398a-9c20-add38f40d130","apiUrl":"http://test.api.ft.com/organisations/2fa78ba1-4e8a-398a-9c20-add38f40d130","prefLabel":"SnappyLabs LLC","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/c282fe9d-e29d-387e-90eb-95dff4c334b5","apiUrl":"http://test.api.ft.com/organisations/c282fe9d-e29d-387e-90eb-95dff4c334b5","prefLabel":"Novauris Technologies Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/6cd79e08-8adb-3f8b-b24a-239a8d4505ba","apiUrl":"http://test.api.ft.com/organisations/6cd79e08-8adb-3f8b-b24a-239a8d4505ba","prefLabel":"Novel Projects, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/3686befa-dd58-3a89-86e6-042cd15ad14d","apiUrl":"http://test.api.ft.com/organisations/3686befa-dd58-3a89-86e6-042cd15ad14d","prefLabel":"Prss","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/6793a366-83bd-38c1-9a43-ef4cabf48153","apiUrl":"http://test.api.ft.com/organisations/6793a366-83bd-38c1-9a43-ef4cabf48153","prefLabel":"Braeburn Capital, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/d29c2ed2-2f41-3fab-9747-1c3797f0468f","apiUrl":"http://test.api.ft.com/organisations/d29c2ed2-2f41-3fab-9747-1c3797f0468f","prefLabel":"Camel Audio Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/ad9c7c7a-03bb-34bb-b05e-15fae7048720","apiUrl":"http://test.api.ft.com/organisations/ad9c7c7a-03bb-34bb-b05e-15fae7048720","prefLabel":"Claris, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/39aeb153-56ca-3761-9c4a-f6cd894f4805","apiUrl":"http://test.api.ft.com/organisations/39aeb153-56ca-3761-9c4a-f6cd894f4805","prefLabel":"Apple Israel","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/7bca236f-2715-3b9e-b70e-00a879f5abab","apiUrl":"http://test.api.ft.com/organisations/7bca236f-2715-3b9e-b70e-00a879f5abab","prefLabel":"Claris Corp.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/2cf40216-6fd5-33ef-872d-9ea50b3fdd5a","apiUrl":"http://test.api.ft.com/organisations/2cf40216-6fd5-33ef-872d-9ea50b3fdd5a","prefLabel":"Network Innovations Corp.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/e43fa1b4-b79d-3ffb-97cf-4179c2a0ad2d","apiUrl":"http://test.api.ft.com/organisations/e43fa1b4-b79d-3ffb-97cf-4179c2a0ad2d","prefLabel":"Apple Store West County","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/08dd2833-65ba-3dae-9056-7b6d13351c7a","apiUrl":"http://test.api.ft.com/organisations/08dd2833-65ba-3dae-9056-7b6d13351c7a","prefLabel":"Itunes, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/8f32c66a-0fa4-3dbe-91dd-518360e0badf","apiUrl":"http://test.api.ft.com/organisations/8f32c66a-0fa4-3dbe-91dd-518360e0badf","prefLabel":"Apple GmbH","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/52e307f5-ce1e-3760-acc0-364636d8f2f4","apiUrl":"http://test.api.ft.com/organisations/52e307f5-ce1e-3760-acc0-364636d8f2f4","prefLabel":"Apple Sales Ireland","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/ec706023-e5cb-3cd5-944d-4f45062f7e5f","apiUrl":"http://test.api.ft.com/organisations/ec706023-e5cb-3cd5-944d-4f45062f7e5f","prefLabel":"Apple Computer Holding Europe Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/17841c13-94fb-3231-9347-d313ae3ea984","apiUrl":"http://test.api.ft.com/organisations/17841c13-94fb-3231-9347-d313ae3ea984","prefLabel":"Apple Operations International","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/56322cd4-0eac-326b-9379-0ded98e91680","apiUrl":"http://test.api.ft.com/organisations/56322cd4-0eac-326b-9379-0ded98e91680","prefLabel":"Apple Computer AB","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/e88610c1-ae34-39d3-b2f6-f964c936ff7e","apiUrl":"http://test.api.ft.com/organisations/e88610c1-ae34-39d3-b2f6-f964c936ff7e","prefLabel":"Apple Italia Srl","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/84606596-1de2-3648-9823-4384a255246b","apiUrl":"http://test.api.ft.com/organisations/84606596-1de2-3648-9823-4384a255246b","prefLabel":"Apple AB","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/83392a66-18dd-379c-a96c-af459e2b2e11","apiUrl":"http://test.api.ft.com/organisations/83392a66-18dd-379c-a96c-af459e2b2e11","prefLabel":"Apple Pty Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/06ad391d-4e3e-37d6-b8ba-0844e113f89f","apiUrl":"http://test.api.ft.com/organisations/06ad391d-4e3e-37d6-b8ba-0844e113f89f","prefLabel":"Apple Switzerland AG","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/fb899bc2-e1c3-3f2b-ad2b-4797c4ab4346","apiUrl":"http://test.api.ft.com/organisations/fb899bc2-e1c3-3f2b-ad2b-4797c4ab4346","prefLabel":"Apple Marketing Iberia SA","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/98998365-22a7-301e-804b-84308c002df8","apiUrl":"http://test.api.ft.com/organisations/98998365-22a7-301e-804b-84308c002df8","prefLabel":"Apple Computer Korea Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/fd79a7aa-7663-3f02-bafc-baa24d1d250c","apiUrl":"http://test.api.ft.com/organisations/fd79a7aa-7663-3f02-bafc-baa24d1d250c","prefLabel":"Apple France","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/00d4cf15-7269-3be8-8910-39797a02e4b5","apiUrl":"http://test.api.ft.com/organisations/00d4cf15-7269-3be8-8910-39797a02e4b5","prefLabel":"Apple Xemplar Education Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/bcc32deb-f593-3e90-bf13-6d6fc7154e2d","apiUrl":"http://test.api.ft.com/organisations/bcc32deb-f593-3e90-bf13-6d6fc7154e2d","prefLabel":"Filemaker International","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/cbcd4599-15b7-3b83-ade1-09e626bd62de","apiUrl":"http://test.api.ft.com/organisations/cbcd4599-15b7-3b83-ade1-09e626bd62de","prefLabel":"Apple Europe Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/55697e96-1229-36ca-ae8b-a0f48a2b5886","apiUrl":"http://test.api.ft.com/organisations/55697e96-1229-36ca-ae8b-a0f48a2b5886","prefLabel":"Apple (UK) Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/b4d885d8-1948-365a-a0fd-ef857cd457f9","apiUrl":"http://test.api.ft.com/organisations/b4d885d8-1948-365a-a0fd-ef857cd457f9","prefLabel":"Itunes SARL","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/f3950f6c-da7a-361d-9965-015b266bf62f","apiUrl":"http://test.api.ft.com/organisations/f3950f6c-da7a-361d-9965-015b266bf62f","prefLabel":"Apple Holding BV","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/bd9929ca-c731-3abc-acf8-f608029fef7d","apiUrl":"http://test.api.ft.com/organisations/bd9929ca-c731-3abc-acf8-f608029fef7d","prefLabel":"Claris Japan, Inc.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/0a884ed0-8ebc-36d8-b266-567de1db2781","apiUrl":"http://test.api.ft.com/organisations/0a884ed0-8ebc-36d8-b266-567de1db2781","prefLabel":"Apple Computer Japan KK","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/dd59cd03-a31a-3212-8f73-bb925b77bcfa","apiUrl":"http://test.api.ft.com/organisations/dd59cd03-a31a-3212-8f73-bb925b77bcfa","prefLabel":"Apple Computer Benelux BV","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/0ba79847-304b-30eb-a2c5-738edb9904dc","apiUrl":"http://test.api.ft.com/organisations/0ba79847-304b-30eb-a2c5-738edb9904dc","prefLabel":"Apple Computer International Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/abbc6321-435d-32ee-bb7b-75743fd80099","apiUrl":"http://test.api.ft.com/organisations/abbc6321-435d-32ee-bb7b-75743fd80099","prefLabel":"Apple Computer Italia SRL","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/2b92fc0f-bb3b-3a62-9aee-11521e1e1f89","apiUrl":"http://test.api.ft.com/organisations/2b92fc0f-bb3b-3a62-9aee-11521e1e1f89","prefLabel":"Apple Computer Mexico SA de CV","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/b54ee600-6507-3f58-bf35-7ea644658cb7","apiUrl":"http://test.api.ft.com/organisations/b54ee600-6507-3f58-bf35-7ea644658cb7","prefLabel":"Apple Computer Trading (Shanghai) Co., Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/916c6f61-8b4f-3571-adab-0bafa0760e35","apiUrl":"http://test.api.ft.com/organisations/916c6f61-8b4f-3571-adab-0bafa0760e35","prefLabel":"Emagic Soft-& Hardware GmbH","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/3bc1fdcf-8edf-3245-b1fb-749940f03447","apiUrl":"http://test.api.ft.com/organisations/3bc1fdcf-8edf-3245-b1fb-749940f03447","prefLabel":"Apple Asia LLC","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/566b329c-adc3-3472-8092-8d8485a9c388","apiUrl":"http://test.api.ft.com/organisations/566b329c-adc3-3472-8092-8d8485a9c388","prefLabel":"Apple Asia Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/849481d5-c8f1-30af-a530-78d4e93abf2b","apiUrl":"http://test.api.ft.com/organisations/849481d5-c8f1-30af-a530-78d4e93abf2b","prefLabel":"AndroMac SAS","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/8432b8dc-38a9-3a33-8aa7-c541faa9711f","apiUrl":"http://test.api.ft.com/organisations/8432b8dc-38a9-3a33-8aa7-c541faa9711f","prefLabel":"iSwitch","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/5040a6c9-610c-3109-a104-29d2a91c6d7d","apiUrl":"http://test.api.ft.com/organisations/5040a6c9-610c-3109-a104-29d2a91c6d7d","prefLabel":"Apple Outlet Co., Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/e1cab709-cb18-35cb-9676-f4cd22c3444d","apiUrl":"http://test.api.ft.com/organisations/e1cab709-cb18-35cb-9676-f4cd22c3444d","prefLabel":"Apple Computer Brasil Ltda.","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/cf8b4046-0c59-3663-b37f-b30995ff6eb3","apiUrl":"http://test.api.ft.com/organisations/cf8b4046-0c59-3663-b37f-b30995ff6eb3","prefLabel":"Apple Operations Mexico SA de CV","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/ac3ab3a2-5901-39a3-8da1-b389d5c73cc1","apiUrl":"http://test.api.ft.com/organisations/ac3ab3a2-5901-39a3-8da1-b389d5c73cc1","prefLabel":"Apple Operations","types":["http://www.ft.com/ontology/organisation/Organisation"]},{"id":"http://api.ft.com/things/5dd3f20b-097e-3ed5-a01c-098de58cf7b3","apiUrl":"http://test.api.ft.com/organisations/5dd3f20b-097e-3ed5-a01c-098de58cf7b3","prefLabel":"LinX Computational Imaging Ltd.","types":["http://www.ft.com/ontology/organisation/Organisation"]}],"memberships":[{"title":"Principal","person":{"id":"http://api.ft.com/things/9dca32b8-9a2a-38e8-8368-b9a485e62dd3","apiUrl":"http://test.api.ft.com/people/9dca32b8-9a2a-38e8-8368-b9a485e62dd3","prefLabel":"Reid G. Hoffman","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Senior Vice President","person":{"id":"http://api.ft.com/things/3af1b1e6-2294-3f4d-aee9-93c5eaa32407","apiUrl":"http://test.api.ft.com/people/3af1b1e6-2294-3f4d-aee9-93c5eaa32407","prefLabel":"Tim Bucher","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/ba950356-df78-3e1d-9fb6-6f41de243dae","apiUrl":"http://test.api.ft.com/people/ba950356-df78-3e1d-9fb6-6f41de243dae","prefLabel":"Eero Teerikorpi","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/9252acef-fb52-340c-8707-ec1d3644251e","apiUrl":"http://test.api.ft.com/people/9252acef-fb52-340c-8707-ec1d3644251e","prefLabel":"Fara Zarrabi","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/ff83a35f-21d6-3b70-b8c6-5312dca0ab84","apiUrl":"http://test.api.ft.com/people/ff83a35f-21d6-3b70-b8c6-5312dca0ab84","prefLabel":"Jim Ridout","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/aef71a78-1e7f-3d5e-8a8e-4bc241ddf3af","apiUrl":"http://test.api.ft.com/people/aef71a78-1e7f-3d5e-8a8e-4bc241ddf3af","prefLabel":"Chris Engel","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/eea3aa85-1da6-3276-b507-309d842ff13b","apiUrl":"http://test.api.ft.com/people/eea3aa85-1da6-3276-b507-309d842ff13b","prefLabel":"Barak A. Berkowitz","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/f44e910d-3e5b-3c48-a98c-d332dafddeda","apiUrl":"http://test.api.ft.com/people/f44e910d-3e5b-3c48-a98c-d332dafddeda","prefLabel":"Charlie Oppenheimer","types":["http://www.ft.com/ontology/person/Person"]},"changeEvents":[{"startedAt":"1984-01-01T00:00:00Z"},{"endedAt":"1993-01-01T00:00:00Z"}]},{"title":"Vice President","person":{"id":"http://api.ft.com/things/a84b39db-2f1a-3cbd-98ce-9a38283f389d","apiUrl":"http://test.api.ft.com/people/a84b39db-2f1a-3cbd-98ce-9a38283f389d","prefLabel":"Michael Muench","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Engineering Manager","person":{"id":"http://api.ft.com/things/fe4aef21-8c9b-3d43-962f-ee32b49aec9f","apiUrl":"http://test.api.ft.com/people/fe4aef21-8c9b-3d43-962f-ee32b49aec9f","prefLabel":"Douglas R. Brent","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/cd9e00f6-74c7-31e8-b048-ad01d1d48abe","apiUrl":"http://test.api.ft.com/people/cd9e00f6-74c7-31e8-b048-ad01d1d48abe","prefLabel":"Paul D'Arcy","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/147de07f-56bb-3cd4-b4f2-10db3369b0c3","apiUrl":"http://test.api.ft.com/people/147de07f-56bb-3cd4-b4f2-10db3369b0c3","prefLabel":"William R. Slakey","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Sales Representative","person":{"id":"http://api.ft.com/things/8f16e176-f1fa-3b92-ab19-a82afab24d91","apiUrl":"http://test.api.ft.com/people/8f16e176-f1fa-3b92-ab19-a82afab24d91","prefLabel":"Randy E. Murphy","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/5d73ba12-1cf8-348e-a028-d377866426e9","apiUrl":"http://test.api.ft.com/people/5d73ba12-1cf8-348e-a028-d377866426e9","prefLabel":"Cheng Hwee Chee","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Design Engineer & Architect","person":{"id":"http://api.ft.com/things/c623bb16-9495-378a-9985-67d3d082b4b8","apiUrl":"http://test.api.ft.com/people/c623bb16-9495-378a-9985-67d3d082b4b8","prefLabel":"Laurence Thompson","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/6581d83f-88eb-3539-81c2-ac8cd045ba6b","apiUrl":"http://test.api.ft.com/people/6581d83f-88eb-3539-81c2-ac8cd045ba6b","prefLabel":"Steve Dunn","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/8605e9c0-02e5-31f6-9539-0700a797137e","apiUrl":"http://test.api.ft.com/people/8605e9c0-02e5-31f6-9539-0700a797137e","prefLabel":"Brian Hamel","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Product Manager","person":{"id":"http://api.ft.com/things/a6eabc80-cb3c-3a00-98c0-2c379f9a5259","apiUrl":"http://test.api.ft.com/people/a6eabc80-cb3c-3a00-98c0-2c379f9a5259","prefLabel":"Douglas Camplejohn","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/507cc8f8-c559-3e32-8cb7-11f34240b8da","apiUrl":"http://test.api.ft.com/people/507cc8f8-c559-3e32-8cb7-11f34240b8da","prefLabel":"David Cho","types":["http://www.ft.com/ontology/person/Person"]},"changeEvents":[{"startedAt":"1986-01-01T00:00:00Z"},{"endedAt":"1998-01-01T00:00:00Z"}]},{"title":"Principal","person":{"id":"http://api.ft.com/things/828c7171-446b-38b7-b4d5-2149004d67c3","apiUrl":"http://test.api.ft.com/people/828c7171-446b-38b7-b4d5-2149004d67c3","prefLabel":"Sangam Sangameswara","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Vice President-Channel Sales","person":{"id":"http://api.ft.com/things/5b795e4b-c01c-3c76-ae6f-9c50dedd563d","apiUrl":"http://test.api.ft.com/people/5b795e4b-c01c-3c76-ae6f-9c50dedd563d","prefLabel":"Keith Geck","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/724af9fc-a695-3808-9e18-ea64c68ed7dd","apiUrl":"http://test.api.ft.com/people/724af9fc-a695-3808-9e18-ea64c68ed7dd","prefLabel":"Marcia Kadanoff","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/fb0573ee-bcc0-3bbb-b448-61ca9d97a167","apiUrl":"http://test.api.ft.com/people/fb0573ee-bcc0-3bbb-b448-61ca9d97a167","prefLabel":"Michael C. Mountz","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Regional Manager","person":{"id":"http://api.ft.com/things/a93870f8-2352-3474-8ec1-88ecc68f83a6","apiUrl":"http://test.api.ft.com/people/a93870f8-2352-3474-8ec1-88ecc68f83a6","prefLabel":"Chuck Amos","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/c5cb1c32-4955-3277-9526-5f5b02d04c99","apiUrl":"http://test.api.ft.com/people/c5cb1c32-4955-3277-9526-5f5b02d04c99","prefLabel":"James N. Marshall","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Senior Consulting Engineer","person":{"id":"http://api.ft.com/things/704c782e-8627-31a9-a775-a0b3a9c53259","apiUrl":"http://test.api.ft.com/people/704c782e-8627-31a9-a775-a0b3a9c53259","prefLabel":"Obul Kambham","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/70056feb-cf92-35dc-bc27-c4710f68f422","apiUrl":"http://test.api.ft.com/people/70056feb-cf92-35dc-bc27-c4710f68f422","prefLabel":"Judy Mary Gibbons","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Director-Channel Operations","person":{"id":"http://api.ft.com/things/cbce2a6c-d541-3c7c-abb5-0563420ebcc2","apiUrl":"http://test.api.ft.com/people/cbce2a6c-d541-3c7c-abb5-0563420ebcc2","prefLabel":"Tina Babbi","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/32781ee2-fac1-3ce5-a156-4f20804432d4","apiUrl":"http://test.api.ft.com/people/32781ee2-fac1-3ce5-a156-4f20804432d4","prefLabel":"Mark Halstead","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/621d2ea8-ec19-33e2-8280-eeb4ab7a5fb0","apiUrl":"http://test.api.ft.com/people/621d2ea8-ec19-33e2-8280-eeb4ab7a5fb0","prefLabel":"Gregory P. Kostello","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/0e51ad01-dc34-33e4-afb6-b606c819827c","apiUrl":"http://test.api.ft.com/people/0e51ad01-dc34-33e4-afb6-b606c819827c","prefLabel":"Karen M. Steele","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Manager-Software Development","person":{"id":"http://api.ft.com/things/bf247b2e-93ac-36da-b577-f50f4bb381a6","apiUrl":"http://test.api.ft.com/people/bf247b2e-93ac-36da-b577-f50f4bb381a6","prefLabel":"Marian Cauwet","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Advisor","person":{"id":"http://api.ft.com/things/9cedbf71-6932-323f-b6e0-3f1509e2e325","apiUrl":"http://test.api.ft.com/people/9cedbf71-6932-323f-b6e0-3f1509e2e325","prefLabel":"Keith Kocho","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Senior Manager-Marketing","person":{"id":"http://api.ft.com/things/0610cf26-71bf-3c5b-a66a-7d6b4e0c6201","apiUrl":"http://test.api.ft.com/people/0610cf26-71bf-3c5b-a66a-7d6b4e0c6201","prefLabel":"Harry Vitelli","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/daacb0df-b64a-3254-b1b6-623bcb75a678","apiUrl":"http://test.api.ft.com/people/daacb0df-b64a-3254-b1b6-623bcb75a678","prefLabel":"William Alcorn","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/06c4a390-39b9-31f2-b308-016d46088c93","apiUrl":"http://test.api.ft.com/people/06c4a390-39b9-31f2-b308-016d46088c93","prefLabel":"Joseph Marnell","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Systems Engineer","person":{"id":"http://api.ft.com/things/fda304c8-a762-3cb5-b0e1-bff08872a81a","apiUrl":"http://test.api.ft.com/people/fda304c8-a762-3cb5-b0e1-bff08872a81a","prefLabel":"David J. Russek","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/cec5edae-06cb-3b82-aeb2-6558e8803e75","apiUrl":"http://test.api.ft.com/people/cec5edae-06cb-3b82-aeb2-6558e8803e75","prefLabel":"Shari Brandt","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/fe82859c-3632-39b3-b354-b284eddd9201","apiUrl":"http://test.api.ft.com/people/fe82859c-3632-39b3-b354-b284eddd9201","prefLabel":"Kevin Hurst","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Manager-Business Development","person":{"id":"http://api.ft.com/things/d1b757ea-c590-30df-b72c-7a8e4213ddf7","apiUrl":"http://test.api.ft.com/people/d1b757ea-c590-30df-b72c-7a8e4213ddf7","prefLabel":"Martin Stein","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Manager-Product Marketing","person":{"id":"http://api.ft.com/things/4cb74cee-f319-31b7-b45c-5c3f7673ef5d","apiUrl":"http://test.api.ft.com/people/4cb74cee-f319-31b7-b45c-5c3f7673ef5d","prefLabel":"James L. Isaacs","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Software Engineer","person":{"id":"http://api.ft.com/things/926b8564-2fcf-32b7-af1e-c9b13eb702eb","apiUrl":"http://test.api.ft.com/people/926b8564-2fcf-32b7-af1e-c9b13eb702eb","prefLabel":"Joe F. Britt","types":["http://www.ft.com/ontology/person/Person"]},"changeEvents":[{"startedAt":"1992-01-01T00:00:00Z"},{"endedAt":"1993-10-01T00:00:00Z"}]},{"title":"Principal","person":{"id":"http://api.ft.com/things/5a3f8f19-1c2e-3a85-af9d-05c0d71348cb","apiUrl":"http://test.api.ft.com/people/5a3f8f19-1c2e-3a85-af9d-05c0d71348cb","prefLabel":"Ian Felix","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/c181dae5-714e-33b3-ab37-f1981ab76c5c","apiUrl":"http://test.api.ft.com/people/c181dae5-714e-33b3-ab37-f1981ab76c5c","prefLabel":"Arjen Maarleveld","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/1f815a82-252b-3732-90a4-040f0c7d9255","apiUrl":"http://test.api.ft.com/people/1f815a82-252b-3732-90a4-040f0c7d9255","prefLabel":"Geoffrey D. Osler","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/8d96bb00-54c7-3ceb-9d9c-f15cb278767a","apiUrl":"http://test.api.ft.com/people/8d96bb00-54c7-3ceb-9d9c-f15cb278767a","prefLabel":"Chris Tyburski","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/fc2b096e-0980-35f8-bdce-9b34450072e8","apiUrl":"http://test.api.ft.com/people/fc2b096e-0980-35f8-bdce-9b34450072e8","prefLabel":"Matt DeLoca","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/420513d8-fa78-323d-b5c1-d5f2938da0bb","apiUrl":"http://test.api.ft.com/people/420513d8-fa78-323d-b5c1-d5f2938da0bb","prefLabel":"Larry Yu","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/36acdd66-9949-3b8e-b5fd-e49ada351ce4","apiUrl":"http://test.api.ft.com/people/36acdd66-9949-3b8e-b5fd-e49ada351ce4","prefLabel":"Nazila Alasti","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/7d1c2d84-f862-33a2-ac57-b3e56ac1f1a7","apiUrl":"http://test.api.ft.com/people/7d1c2d84-f862-33a2-ac57-b3e56ac1f1a7","prefLabel":"Jack Smith","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/f87ff8ca-319d-362f-bc93-e0f2645104da","apiUrl":"http://test.api.ft.com/people/f87ff8ca-319d-362f-bc93-e0f2645104da","prefLabel":"Warren F. Miller","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/c39ebd7c-415d-3c4b-855f-e81c45329acc","apiUrl":"http://test.api.ft.com/people/c39ebd7c-415d-3c4b-855f-e81c45329acc","prefLabel":"Abraham Jou","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/48fcac9c-dae8-3379-9f9b-c014597bfa0d","apiUrl":"http://test.api.ft.com/people/48fcac9c-dae8-3379-9f9b-c014597bfa0d","prefLabel":"Cynthia Francis","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/879f3b59-edd9-31be-9d41-24e7dc717d52","apiUrl":"http://test.api.ft.com/people/879f3b59-edd9-31be-9d41-24e7dc717d52","prefLabel":"John W. Stossel","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Vice President & General Manager","person":{"id":"http://api.ft.com/things/a6d62d4f-4929-3c37-ab1b-b322e67eba76","apiUrl":"http://test.api.ft.com/people/a6d62d4f-4929-3c37-ab1b-b322e67eba76","prefLabel":"John C. Cavalier","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/553d2ee6-97eb-3e4e-ab6e-fc028dbae9c5","apiUrl":"http://test.api.ft.com/people/553d2ee6-97eb-3e4e-ab6e-fc028dbae9c5","prefLabel":"Michael Flickman","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Principal","person":{"id":"http://api.ft.com/things/b18f4dd2-a593-389a-b9df-bb544a1f9047","apiUrl":"http://test.api.ft.com/people/b18f4dd2-a593-389a-b9df-bb544a1f9047","prefLabel":"David Farrington","types":["http://www.ft.com/ontology/person/Person"]}},{"title":"Head-Business Development","person":{"id":"http://api.ft.com/things/9dac3d2c-2914-3b08-a307-795df2caea1f","apiUrl":"http://test.api.ft.com/people/9dac3d2c-2914-3b08-a307-795df2caea1f","prefLabel":"Subrah S. Iyar","types":["http://www.ft.com/ontology/person/Person"]},"changeEvents":[{"startedAt":"1983-02-01T00:00:00Z"},{"endedAt":"1995-01-01T00:00:00Z"}]}]}
+{
+  "apiUrl": "http://test.api.ft.com/organisations/2384fa7a-d514-3d6a-a0ea-3a711f66d0d8",
+  "id": "http://api.ft.com/things/2384fa7a-d514-3d6a-a0ea-3a711f66d0d8",
+  "industryClassification": {
+    "apiUrl": "http://test.api.ft.com/things/7a01c847-a9bd-33be-b991-c6fbd8871a46",
+    "id": "http://api.ft.com/things/7a01c847-a9bd-33be-b991-c6fbd8871a46",
+    "prefLabel": "Computer Hardware"
+  },
+  "labels": [
+    "Apple, Inc.",
+    "APPLE INC",
+    "Apple Inc.",
+    "Apple",
+    "Apple Computer, Inc.",
+    "Apple Canada",
+    "Apple Inc",
+    "Apple Computer",
+    "Apple Incorporated",
+    "Apple Computer Inc",
+    "Apple Computers"
+  ],
+  "leiCode": "HWUPKR0MPOU8FGXBT394",
+  "memberships": [
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/9dca32b8-9a2a-38e8-8368-b9a485e62dd3",
+        "id": "http://api.ft.com/things/9dca32b8-9a2a-38e8-8368-b9a485e62dd3",
+        "prefLabel": "Reid G. Hoffman",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/3af1b1e6-2294-3f4d-aee9-93c5eaa32407",
+        "id": "http://api.ft.com/things/3af1b1e6-2294-3f4d-aee9-93c5eaa32407",
+        "prefLabel": "Tim Bucher",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Senior Vice President"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/ba950356-df78-3e1d-9fb6-6f41de243dae",
+        "id": "http://api.ft.com/things/ba950356-df78-3e1d-9fb6-6f41de243dae",
+        "prefLabel": "Eero Teerikorpi",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/9252acef-fb52-340c-8707-ec1d3644251e",
+        "id": "http://api.ft.com/things/9252acef-fb52-340c-8707-ec1d3644251e",
+        "prefLabel": "Fara Zarrabi",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/ff83a35f-21d6-3b70-b8c6-5312dca0ab84",
+        "id": "http://api.ft.com/things/ff83a35f-21d6-3b70-b8c6-5312dca0ab84",
+        "prefLabel": "Jim Ridout",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/aef71a78-1e7f-3d5e-8a8e-4bc241ddf3af",
+        "id": "http://api.ft.com/things/aef71a78-1e7f-3d5e-8a8e-4bc241ddf3af",
+        "prefLabel": "Chris Engel",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/eea3aa85-1da6-3276-b507-309d842ff13b",
+        "id": "http://api.ft.com/things/eea3aa85-1da6-3276-b507-309d842ff13b",
+        "prefLabel": "Barak A. Berkowitz",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "changeEvents": [
+        {
+          "startedAt": "1984-01-01T00:00:00Z"
+        },
+        {
+          "endedAt": "1993-01-01T00:00:00Z"
+        }
+      ],
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/f44e910d-3e5b-3c48-a98c-d332dafddeda",
+        "id": "http://api.ft.com/things/f44e910d-3e5b-3c48-a98c-d332dafddeda",
+        "prefLabel": "Charlie Oppenheimer",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/a84b39db-2f1a-3cbd-98ce-9a38283f389d",
+        "id": "http://api.ft.com/things/a84b39db-2f1a-3cbd-98ce-9a38283f389d",
+        "prefLabel": "Michael Muench",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Vice President"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/fe4aef21-8c9b-3d43-962f-ee32b49aec9f",
+        "id": "http://api.ft.com/things/fe4aef21-8c9b-3d43-962f-ee32b49aec9f",
+        "prefLabel": "Douglas R. Brent",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Engineering Manager"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/cd9e00f6-74c7-31e8-b048-ad01d1d48abe",
+        "id": "http://api.ft.com/things/cd9e00f6-74c7-31e8-b048-ad01d1d48abe",
+        "prefLabel": "Paul D'Arcy",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/147de07f-56bb-3cd4-b4f2-10db3369b0c3",
+        "id": "http://api.ft.com/things/147de07f-56bb-3cd4-b4f2-10db3369b0c3",
+        "prefLabel": "William R. Slakey",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/8f16e176-f1fa-3b92-ab19-a82afab24d91",
+        "id": "http://api.ft.com/things/8f16e176-f1fa-3b92-ab19-a82afab24d91",
+        "prefLabel": "Randy E. Murphy",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Sales Representative"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/5d73ba12-1cf8-348e-a028-d377866426e9",
+        "id": "http://api.ft.com/things/5d73ba12-1cf8-348e-a028-d377866426e9",
+        "prefLabel": "Cheng Hwee Chee",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/c623bb16-9495-378a-9985-67d3d082b4b8",
+        "id": "http://api.ft.com/things/c623bb16-9495-378a-9985-67d3d082b4b8",
+        "prefLabel": "Laurence Thompson",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Design Engineer & Architect"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/6581d83f-88eb-3539-81c2-ac8cd045ba6b",
+        "id": "http://api.ft.com/things/6581d83f-88eb-3539-81c2-ac8cd045ba6b",
+        "prefLabel": "Steve Dunn",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/8605e9c0-02e5-31f6-9539-0700a797137e",
+        "id": "http://api.ft.com/things/8605e9c0-02e5-31f6-9539-0700a797137e",
+        "prefLabel": "Brian Hamel",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/a6eabc80-cb3c-3a00-98c0-2c379f9a5259",
+        "id": "http://api.ft.com/things/a6eabc80-cb3c-3a00-98c0-2c379f9a5259",
+        "prefLabel": "Douglas Camplejohn",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Product Manager"
+    },
+    {
+      "changeEvents": [
+        {
+          "startedAt": "1986-01-01T00:00:00Z"
+        },
+        {
+          "endedAt": "1998-01-01T00:00:00Z"
+        }
+      ],
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/507cc8f8-c559-3e32-8cb7-11f34240b8da",
+        "id": "http://api.ft.com/things/507cc8f8-c559-3e32-8cb7-11f34240b8da",
+        "prefLabel": "David Cho",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/828c7171-446b-38b7-b4d5-2149004d67c3",
+        "id": "http://api.ft.com/things/828c7171-446b-38b7-b4d5-2149004d67c3",
+        "prefLabel": "Sangam Sangameswara",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/5b795e4b-c01c-3c76-ae6f-9c50dedd563d",
+        "id": "http://api.ft.com/things/5b795e4b-c01c-3c76-ae6f-9c50dedd563d",
+        "prefLabel": "Keith Geck",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Vice President-Channel Sales"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/724af9fc-a695-3808-9e18-ea64c68ed7dd",
+        "id": "http://api.ft.com/things/724af9fc-a695-3808-9e18-ea64c68ed7dd",
+        "prefLabel": "Marcia Kadanoff",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/fb0573ee-bcc0-3bbb-b448-61ca9d97a167",
+        "id": "http://api.ft.com/things/fb0573ee-bcc0-3bbb-b448-61ca9d97a167",
+        "prefLabel": "Michael C. Mountz",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/a93870f8-2352-3474-8ec1-88ecc68f83a6",
+        "id": "http://api.ft.com/things/a93870f8-2352-3474-8ec1-88ecc68f83a6",
+        "prefLabel": "Chuck Amos",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Regional Manager"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/c5cb1c32-4955-3277-9526-5f5b02d04c99",
+        "id": "http://api.ft.com/things/c5cb1c32-4955-3277-9526-5f5b02d04c99",
+        "prefLabel": "James N. Marshall",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/704c782e-8627-31a9-a775-a0b3a9c53259",
+        "id": "http://api.ft.com/things/704c782e-8627-31a9-a775-a0b3a9c53259",
+        "prefLabel": "Obul Kambham",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Senior Consulting Engineer"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/70056feb-cf92-35dc-bc27-c4710f68f422",
+        "id": "http://api.ft.com/things/70056feb-cf92-35dc-bc27-c4710f68f422",
+        "prefLabel": "Judy Mary Gibbons",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/cbce2a6c-d541-3c7c-abb5-0563420ebcc2",
+        "id": "http://api.ft.com/things/cbce2a6c-d541-3c7c-abb5-0563420ebcc2",
+        "prefLabel": "Tina Babbi",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Director-Channel Operations"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/32781ee2-fac1-3ce5-a156-4f20804432d4",
+        "id": "http://api.ft.com/things/32781ee2-fac1-3ce5-a156-4f20804432d4",
+        "prefLabel": "Mark Halstead",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/621d2ea8-ec19-33e2-8280-eeb4ab7a5fb0",
+        "id": "http://api.ft.com/things/621d2ea8-ec19-33e2-8280-eeb4ab7a5fb0",
+        "prefLabel": "Gregory P. Kostello",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/0e51ad01-dc34-33e4-afb6-b606c819827c",
+        "id": "http://api.ft.com/things/0e51ad01-dc34-33e4-afb6-b606c819827c",
+        "prefLabel": "Karen M. Steele",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/bf247b2e-93ac-36da-b577-f50f4bb381a6",
+        "id": "http://api.ft.com/things/bf247b2e-93ac-36da-b577-f50f4bb381a6",
+        "prefLabel": "Marian Cauwet",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Manager-Software Development"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/9cedbf71-6932-323f-b6e0-3f1509e2e325",
+        "id": "http://api.ft.com/things/9cedbf71-6932-323f-b6e0-3f1509e2e325",
+        "prefLabel": "Keith Kocho",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Advisor"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/0610cf26-71bf-3c5b-a66a-7d6b4e0c6201",
+        "id": "http://api.ft.com/things/0610cf26-71bf-3c5b-a66a-7d6b4e0c6201",
+        "prefLabel": "Harry Vitelli",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Senior Manager-Marketing"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/daacb0df-b64a-3254-b1b6-623bcb75a678",
+        "id": "http://api.ft.com/things/daacb0df-b64a-3254-b1b6-623bcb75a678",
+        "prefLabel": "William Alcorn",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/06c4a390-39b9-31f2-b308-016d46088c93",
+        "id": "http://api.ft.com/things/06c4a390-39b9-31f2-b308-016d46088c93",
+        "prefLabel": "Joseph Marnell",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/fda304c8-a762-3cb5-b0e1-bff08872a81a",
+        "id": "http://api.ft.com/things/fda304c8-a762-3cb5-b0e1-bff08872a81a",
+        "prefLabel": "David J. Russek",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Systems Engineer"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/cec5edae-06cb-3b82-aeb2-6558e8803e75",
+        "id": "http://api.ft.com/things/cec5edae-06cb-3b82-aeb2-6558e8803e75",
+        "prefLabel": "Shari Brandt",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/fe82859c-3632-39b3-b354-b284eddd9201",
+        "id": "http://api.ft.com/things/fe82859c-3632-39b3-b354-b284eddd9201",
+        "prefLabel": "Kevin Hurst",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/d1b757ea-c590-30df-b72c-7a8e4213ddf7",
+        "id": "http://api.ft.com/things/d1b757ea-c590-30df-b72c-7a8e4213ddf7",
+        "prefLabel": "Martin Stein",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Manager-Business Development"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/4cb74cee-f319-31b7-b45c-5c3f7673ef5d",
+        "id": "http://api.ft.com/things/4cb74cee-f319-31b7-b45c-5c3f7673ef5d",
+        "prefLabel": "James L. Isaacs",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Manager-Product Marketing"
+    },
+    {
+      "changeEvents": [
+        {
+          "startedAt": "1992-01-01T00:00:00Z"
+        },
+        {
+          "endedAt": "1993-10-01T00:00:00Z"
+        }
+      ],
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/926b8564-2fcf-32b7-af1e-c9b13eb702eb",
+        "id": "http://api.ft.com/things/926b8564-2fcf-32b7-af1e-c9b13eb702eb",
+        "prefLabel": "Joe F. Britt",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Software Engineer"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/5a3f8f19-1c2e-3a85-af9d-05c0d71348cb",
+        "id": "http://api.ft.com/things/5a3f8f19-1c2e-3a85-af9d-05c0d71348cb",
+        "prefLabel": "Ian Felix",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/c181dae5-714e-33b3-ab37-f1981ab76c5c",
+        "id": "http://api.ft.com/things/c181dae5-714e-33b3-ab37-f1981ab76c5c",
+        "prefLabel": "Arjen Maarleveld",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/1f815a82-252b-3732-90a4-040f0c7d9255",
+        "id": "http://api.ft.com/things/1f815a82-252b-3732-90a4-040f0c7d9255",
+        "prefLabel": "Geoffrey D. Osler",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/8d96bb00-54c7-3ceb-9d9c-f15cb278767a",
+        "id": "http://api.ft.com/things/8d96bb00-54c7-3ceb-9d9c-f15cb278767a",
+        "prefLabel": "Chris Tyburski",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/fc2b096e-0980-35f8-bdce-9b34450072e8",
+        "id": "http://api.ft.com/things/fc2b096e-0980-35f8-bdce-9b34450072e8",
+        "prefLabel": "Matt DeLoca",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/420513d8-fa78-323d-b5c1-d5f2938da0bb",
+        "id": "http://api.ft.com/things/420513d8-fa78-323d-b5c1-d5f2938da0bb",
+        "prefLabel": "Larry Yu",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/36acdd66-9949-3b8e-b5fd-e49ada351ce4",
+        "id": "http://api.ft.com/things/36acdd66-9949-3b8e-b5fd-e49ada351ce4",
+        "prefLabel": "Nazila Alasti",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/7d1c2d84-f862-33a2-ac57-b3e56ac1f1a7",
+        "id": "http://api.ft.com/things/7d1c2d84-f862-33a2-ac57-b3e56ac1f1a7",
+        "prefLabel": "Jack Smith",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/f87ff8ca-319d-362f-bc93-e0f2645104da",
+        "id": "http://api.ft.com/things/f87ff8ca-319d-362f-bc93-e0f2645104da",
+        "prefLabel": "Warren F. Miller",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/c39ebd7c-415d-3c4b-855f-e81c45329acc",
+        "id": "http://api.ft.com/things/c39ebd7c-415d-3c4b-855f-e81c45329acc",
+        "prefLabel": "Abraham Jou",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/48fcac9c-dae8-3379-9f9b-c014597bfa0d",
+        "id": "http://api.ft.com/things/48fcac9c-dae8-3379-9f9b-c014597bfa0d",
+        "prefLabel": "Cynthia Francis",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/879f3b59-edd9-31be-9d41-24e7dc717d52",
+        "id": "http://api.ft.com/things/879f3b59-edd9-31be-9d41-24e7dc717d52",
+        "prefLabel": "John W. Stossel",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/a6d62d4f-4929-3c37-ab1b-b322e67eba76",
+        "id": "http://api.ft.com/things/a6d62d4f-4929-3c37-ab1b-b322e67eba76",
+        "prefLabel": "John C. Cavalier",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Vice President & General Manager"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/553d2ee6-97eb-3e4e-ab6e-fc028dbae9c5",
+        "id": "http://api.ft.com/things/553d2ee6-97eb-3e4e-ab6e-fc028dbae9c5",
+        "prefLabel": "Michael Flickman",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/b18f4dd2-a593-389a-b9df-bb544a1f9047",
+        "id": "http://api.ft.com/things/b18f4dd2-a593-389a-b9df-bb544a1f9047",
+        "prefLabel": "David Farrington",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Principal"
+    },
+    {
+      "changeEvents": [
+        {
+          "startedAt": "1983-02-01T00:00:00Z"
+        },
+        {
+          "endedAt": "1995-01-01T00:00:00Z"
+        }
+      ],
+      "person": {
+        "apiUrl": "http://test.api.ft.com/people/9dac3d2c-2914-3b08-a307-795df2caea1f",
+        "id": "http://api.ft.com/things/9dac3d2c-2914-3b08-a307-795df2caea1f",
+        "prefLabel": "Subrah S. Iyar",
+        "types": [
+          "http://www.ft.com/ontology/person/Person"
+        ]
+      },
+      "title": "Head-Business Development"
+    }
+  ],
+  "prefLabel": "Apple, Inc.",
+  "profile": "<body><p>Apple, Inc. designs, manufactures, and markets mobile communication and media devices, personal computers, portable digital music players, and sells a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. Its products and services include iPhone, iPad, iPod, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and accessories, service and support offerings. The company also sells and delivers digital content and applications through the iTunes Store, App Store, iBooks Store, and Mac App Store. It sells its products worldwide through its retail stores, online stores, and direct sales force and third-party cellular network carriers, wholesalers, retailers, and value-added resellers to the consumer and also sells third-party iPhone, iPad, Mac and iPod compatible products, including application software, and accessories, through its online and retail stores. The company was founded by Steven Paul Jobs, Steve Wozniak and Ronald Gerald Wayne on April 1, 1976 and is headquartered in Cupertino, CA.</p></body>",
+  "subsidiaries": [
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/3fd6ff2e-1ae8-320d-b522-0c232a5e89bb",
+      "id": "http://api.ft.com/things/3fd6ff2e-1ae8-320d-b522-0c232a5e89bb",
+      "prefLabel": "Beats Electronics LLC",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/c314e08e-e768-3a83-966f-b877983eb8ea",
+      "id": "http://api.ft.com/things/c314e08e-e768-3a83-966f-b877983eb8ea",
+      "prefLabel": "Semetric Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/5a6a3a13-6009-347f-ac97-f413f6ac3a67",
+      "id": "http://api.ft.com/things/5a6a3a13-6009-347f-ac97-f413f6ac3a67",
+      "prefLabel": "Mapsense, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/c2a33d36-d5a8-3efd-869e-ed2cb75eb3d9",
+      "id": "http://api.ft.com/things/c2a33d36-d5a8-3efd-869e-ed2cb75eb3d9",
+      "prefLabel": "AuthenTec, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/5615216c-8b0f-3f9b-a502-922f7bf390d0",
+      "id": "http://api.ft.com/things/5615216c-8b0f-3f9b-a502-922f7bf390d0",
+      "prefLabel": "PrimeSense Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/379f7ac0-d79c-3a85-ab51-bd5f03af4b84",
+      "id": "http://api.ft.com/things/379f7ac0-d79c-3a85-ab51-bd5f03af4b84",
+      "prefLabel": "Apple Sales International",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/adbe77cf-d724-3567-8820-a7c6ac35d8b2",
+      "id": "http://api.ft.com/things/adbe77cf-d724-3567-8820-a7c6ac35d8b2",
+      "prefLabel": "Power Computing Corp.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/860b04ca-09e2-3f7b-8c21-3dd8249c6aea",
+      "id": "http://api.ft.com/things/860b04ca-09e2-3f7b-8c21-3dd8249c6aea",
+      "prefLabel": "Propel Software Corp.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/c5501c28-44a4-3a32-9735-1f33239bbc75",
+      "id": "http://api.ft.com/things/c5501c28-44a4-3a32-9735-1f33239bbc75",
+      "prefLabel": "P.A. Semi, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/4974af9a-6010-3d48-8650-8116c592d442",
+      "id": "http://api.ft.com/things/4974af9a-6010-3d48-8650-8116c592d442",
+      "prefLabel": "la la media, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/68c4b58c-6ad2-3fa6-9d71-1a7df8055ad4",
+      "id": "http://api.ft.com/things/68c4b58c-6ad2-3fa6-9d71-1a7df8055ad4",
+      "prefLabel": "Passif Semiconductor Corp.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/dd9d6f85-c7f7-3c4e-980a-addbbe6620cb",
+      "id": "http://api.ft.com/things/dd9d6f85-c7f7-3c4e-980a-addbbe6620cb",
+      "prefLabel": "LuxVue Technology Corp.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/2c9f09fc-7eab-3f20-be5f-4e567fe54eab",
+      "id": "http://api.ft.com/things/2c9f09fc-7eab-3f20-be5f-4e567fe54eab",
+      "prefLabel": "NeXt Software, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/8b73c7a4-df82-39d7-8756-861d3eee2c7e",
+      "id": "http://api.ft.com/things/8b73c7a4-df82-39d7-8756-861d3eee2c7e",
+      "prefLabel": "Nothing Real LLC",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/ed318f90-a33b-34d5-8419-f32d31c4e415",
+      "id": "http://api.ft.com/things/ed318f90-a33b-34d5-8419-f32d31c4e415",
+      "prefLabel": "Astarte GmbH",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/97785e85-afeb-30df-bbc4-695b0d11a39e",
+      "id": "http://api.ft.com/things/97785e85-afeb-30df-bbc4-695b0d11a39e",
+      "prefLabel": "Emagic.com LLC",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/b9b8fe9e-4bcb-31de-884f-650eace89ded",
+      "id": "http://api.ft.com/things/b9b8fe9e-4bcb-31de-884f-650eace89ded",
+      "prefLabel": "Zayante, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/4cf1fc6a-8c35-3931-b652-f9aaa869b340",
+      "id": "http://api.ft.com/things/4cf1fc6a-8c35-3931-b652-f9aaa869b340",
+      "prefLabel": "Xemplar Education Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/1a6ddca5-e701-399f-b542-e09578b8baa3",
+      "id": "http://api.ft.com/things/1a6ddca5-e701-399f-b542-e09578b8baa3",
+      "prefLabel": "Silicon Grail Corp",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/5528a226-bdc5-3946-b451-5d41e6e3ded4",
+      "id": "http://api.ft.com/things/5528a226-bdc5-3946-b451-5d41e6e3ded4",
+      "prefLabel": "Prismo Graphics",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/f8554141-84b0-3cc0-b0f4-23bf257d46aa",
+      "id": "http://api.ft.com/things/f8554141-84b0-3cc0-b0f4-23bf257d46aa",
+      "prefLabel": "Raycer Graphics, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/564afd82-fe29-3f0b-9ebb-a182b7120078",
+      "id": "http://api.ft.com/things/564afd82-fe29-3f0b-9ebb-a182b7120078",
+      "prefLabel": "Apple Canada, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/0f230b6d-fe4f-3e3f-9571-f072c24eb9dd",
+      "id": "http://api.ft.com/things/0f230b6d-fe4f-3e3f-9571-f072c24eb9dd",
+      "prefLabel": "Schema Software, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/dac26922-510f-3b43-a83e-c8461ff2f81a",
+      "id": "http://api.ft.com/things/dac26922-510f-3b43-a83e-c8461ff2f81a",
+      "prefLabel": "Apple Computer (UK) Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/a2dc9198-054d-336d-a7f9-ff60cee8fe6b",
+      "id": "http://api.ft.com/things/a2dc9198-054d-336d-a7f9-ff60cee8fe6b",
+      "prefLabel": "FileMaker, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/1880167f-95d5-3965-ae64-c4f4d801c11b",
+      "id": "http://api.ft.com/things/1880167f-95d5-3965-ae64-c4f4d801c11b",
+      "prefLabel": "Intrinsity, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/330080f5-63af-3b94-a46a-fdf95ba4e61f",
+      "id": "http://api.ft.com/things/330080f5-63af-3b94-a46a-fdf95ba4e61f",
+      "prefLabel": "Apple Computer Australia Pty Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/7207de4a-c0e9-367f-a691-3764d721fe82",
+      "id": "http://api.ft.com/things/7207de4a-c0e9-367f-a691-3764d721fe82",
+      "prefLabel": "Silicon Color, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/59ce2ef4-d2d2-3975-9c49-6c26652716e3",
+      "id": "http://api.ft.com/things/59ce2ef4-d2d2-3975-9c49-6c26652716e3",
+      "prefLabel": "Proximity Corp.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/e0140ab3-fcab-3fff-a366-a9fa60a40340",
+      "id": "http://api.ft.com/things/e0140ab3-fcab-3fff-a366-a9fa60a40340",
+      "prefLabel": "Anobit Technologies Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/99768298-ce8c-3345-bf81-0ea638914e86",
+      "id": "http://api.ft.com/things/99768298-ce8c-3345-bf81-0ea638914e86",
+      "prefLabel": "Quattro Wireless, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/70cf115a-a7d6-3115-8b40-fdc8a572c2cd",
+      "id": "http://api.ft.com/things/70cf115a-a7d6-3115-8b40-fdc8a572c2cd",
+      "prefLabel": "Hopstop.com, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/8771eed5-df87-34b7-a57c-33b2d1a51128",
+      "id": "http://api.ft.com/things/8771eed5-df87-34b7-a57c-33b2d1a51128",
+      "prefLabel": "Polar Rose AB",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/2a362233-2ac7-32d0-a1d6-061ac3931bec",
+      "id": "http://api.ft.com/things/2a362233-2ac7-32d0-a1d6-061ac3931bec",
+      "prefLabel": "Siri, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/1c2f0ae7-a5ac-3ca5-b215-b0b163a60dec",
+      "id": "http://api.ft.com/things/1c2f0ae7-a5ac-3ca5-b215-b0b163a60dec",
+      "prefLabel": "C3 Technologies AB",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/bdc05002-c738-31b6-97e3-67c099a1a5b8",
+      "id": "http://api.ft.com/things/bdc05002-c738-31b6-97e3-67c099a1a5b8",
+      "prefLabel": "Topsy Labs, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/2de30578-7576-36ab-916a-53cf81447298",
+      "id": "http://api.ft.com/things/2de30578-7576-36ab-916a-53cf81447298",
+      "prefLabel": "Chomp, Inc. (California)",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/27b858e5-e6c3-3cbf-8a76-3f09da231626",
+      "id": "http://api.ft.com/things/27b858e5-e6c3-3cbf-8a76-3f09da231626",
+      "prefLabel": "Burstly, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/4b544888-80f3-39b4-9bd6-0e1a5d23cc29",
+      "id": "http://api.ft.com/things/4b544888-80f3-39b4-9bd6-0e1a5d23cc29",
+      "prefLabel": "iFixit, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/c79c3493-b300-3bef-9eb7-74871880816e",
+      "id": "http://api.ft.com/things/c79c3493-b300-3bef-9eb7-74871880816e",
+      "prefLabel": "Poly9 Group, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/cbc17538-3692-321d-ae1d-42ddb7fddc16",
+      "id": "http://api.ft.com/things/cbc17538-3692-321d-ae1d-42ddb7fddc16",
+      "prefLabel": "Cue LLC",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/a9e61214-99d2-3570-899b-56abfcbcee00",
+      "id": "http://api.ft.com/things/a9e61214-99d2-3570-899b-56abfcbcee00",
+      "prefLabel": "Acunu Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/64d5debe-93f1-32b8-b905-ebc7a67e9a54",
+      "id": "http://api.ft.com/things/64d5debe-93f1-32b8-b905-ebc7a67e9a54",
+      "prefLabel": "Color Labs, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/bebe98bd-4149-36cd-ad39-eb0d55d7b5a7",
+      "id": "http://api.ft.com/things/bebe98bd-4149-36cd-ad39-eb0d55d7b5a7",
+      "prefLabel": "Locationary, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/26002ffc-5c46-32d2-b820-7b78fd8f4160",
+      "id": "http://api.ft.com/things/26002ffc-5c46-32d2-b820-7b78fd8f4160",
+      "prefLabel": "Coherent Navigation, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/da6539fa-a3fb-3f24-8e2a-8488cf50a8ad",
+      "id": "http://api.ft.com/things/da6539fa-a3fb-3f24-8e2a-8488cf50a8ad",
+      "prefLabel": "Placebase",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/918e6f25-1eb6-37a4-b2bf-4da80d11905b",
+      "id": "http://api.ft.com/things/918e6f25-1eb6-37a4-b2bf-4da80d11905b",
+      "prefLabel": "Bluebuzz com, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/421133ed-3ba3-3aa1-9445-f88393a9c676",
+      "id": "http://api.ft.com/things/421133ed-3ba3-3aa1-9445-f88393a9c676",
+      "prefLabel": "WiFiSLAM, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/db3f0a5e-9692-34a1-981d-ee779165a69c",
+      "id": "http://api.ft.com/things/db3f0a5e-9692-34a1-981d-ee779165a69c",
+      "prefLabel": "Redmatica SRL",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/120e8ff3-ff09-370d-9505-0fe96c87a062",
+      "id": "http://api.ft.com/things/120e8ff3-ff09-370d-9505-0fe96c87a062",
+      "prefLabel": "metaio GmbH",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/3e932803-fbc0-3ec2-bfef-51771e849b4d",
+      "id": "http://api.ft.com/things/3e932803-fbc0-3ec2-bfef-51771e849b4d",
+      "prefLabel": "AlgoTrim AB",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/d90be6d9-e941-3da4-a28d-e5339f7f896f",
+      "id": "http://api.ft.com/things/d90be6d9-e941-3da4-a28d-e5339f7f896f",
+      "prefLabel": "Particle Programmatica, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/ab7e28ae-e6ef-3e4f-9eb9-adf2d3cd404b",
+      "id": "http://api.ft.com/things/ab7e28ae-e6ef-3e4f-9eb9-adf2d3cd404b",
+      "prefLabel": "Simple Rules, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/63c8f4a4-cd71-3080-b9a1-b4dfab60ceef",
+      "id": "http://api.ft.com/things/63c8f4a4-cd71-3080-b9a1-b4dfab60ceef",
+      "prefLabel": "Apple India Pvt Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/e5c4c95c-148f-3a8b-97ee-32d671351c38",
+      "id": "http://api.ft.com/things/e5c4c95c-148f-3a8b-97ee-32d671351c38",
+      "prefLabel": "FoundationDB LLC",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/437275f6-80e1-3332-8a6b-900f0d1dda71",
+      "id": "http://api.ft.com/things/437275f6-80e1-3332-8a6b-900f0d1dda71",
+      "prefLabel": "Concept.io, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/f3409e2c-4aa7-3f43-86e4-7ae3bcd604fa",
+      "id": "http://api.ft.com/things/f3409e2c-4aa7-3f43-86e4-7ae3bcd604fa",
+      "prefLabel": "Embark, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/2fa78ba1-4e8a-398a-9c20-add38f40d130",
+      "id": "http://api.ft.com/things/2fa78ba1-4e8a-398a-9c20-add38f40d130",
+      "prefLabel": "SnappyLabs LLC",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/c282fe9d-e29d-387e-90eb-95dff4c334b5",
+      "id": "http://api.ft.com/things/c282fe9d-e29d-387e-90eb-95dff4c334b5",
+      "prefLabel": "Novauris Technologies Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/6cd79e08-8adb-3f8b-b24a-239a8d4505ba",
+      "id": "http://api.ft.com/things/6cd79e08-8adb-3f8b-b24a-239a8d4505ba",
+      "prefLabel": "Novel Projects, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/3686befa-dd58-3a89-86e6-042cd15ad14d",
+      "id": "http://api.ft.com/things/3686befa-dd58-3a89-86e6-042cd15ad14d",
+      "prefLabel": "Prss",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/6793a366-83bd-38c1-9a43-ef4cabf48153",
+      "id": "http://api.ft.com/things/6793a366-83bd-38c1-9a43-ef4cabf48153",
+      "prefLabel": "Braeburn Capital, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/d29c2ed2-2f41-3fab-9747-1c3797f0468f",
+      "id": "http://api.ft.com/things/d29c2ed2-2f41-3fab-9747-1c3797f0468f",
+      "prefLabel": "Camel Audio Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/ad9c7c7a-03bb-34bb-b05e-15fae7048720",
+      "id": "http://api.ft.com/things/ad9c7c7a-03bb-34bb-b05e-15fae7048720",
+      "prefLabel": "Claris, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/39aeb153-56ca-3761-9c4a-f6cd894f4805",
+      "id": "http://api.ft.com/things/39aeb153-56ca-3761-9c4a-f6cd894f4805",
+      "prefLabel": "Apple Israel",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/7bca236f-2715-3b9e-b70e-00a879f5abab",
+      "id": "http://api.ft.com/things/7bca236f-2715-3b9e-b70e-00a879f5abab",
+      "prefLabel": "Claris Corp.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/2cf40216-6fd5-33ef-872d-9ea50b3fdd5a",
+      "id": "http://api.ft.com/things/2cf40216-6fd5-33ef-872d-9ea50b3fdd5a",
+      "prefLabel": "Network Innovations Corp.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/e43fa1b4-b79d-3ffb-97cf-4179c2a0ad2d",
+      "id": "http://api.ft.com/things/e43fa1b4-b79d-3ffb-97cf-4179c2a0ad2d",
+      "prefLabel": "Apple Store West County",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/08dd2833-65ba-3dae-9056-7b6d13351c7a",
+      "id": "http://api.ft.com/things/08dd2833-65ba-3dae-9056-7b6d13351c7a",
+      "prefLabel": "Itunes, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/8f32c66a-0fa4-3dbe-91dd-518360e0badf",
+      "id": "http://api.ft.com/things/8f32c66a-0fa4-3dbe-91dd-518360e0badf",
+      "prefLabel": "Apple GmbH",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/52e307f5-ce1e-3760-acc0-364636d8f2f4",
+      "id": "http://api.ft.com/things/52e307f5-ce1e-3760-acc0-364636d8f2f4",
+      "prefLabel": "Apple Sales Ireland",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/ec706023-e5cb-3cd5-944d-4f45062f7e5f",
+      "id": "http://api.ft.com/things/ec706023-e5cb-3cd5-944d-4f45062f7e5f",
+      "prefLabel": "Apple Computer Holding Europe Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/17841c13-94fb-3231-9347-d313ae3ea984",
+      "id": "http://api.ft.com/things/17841c13-94fb-3231-9347-d313ae3ea984",
+      "prefLabel": "Apple Operations International",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/56322cd4-0eac-326b-9379-0ded98e91680",
+      "id": "http://api.ft.com/things/56322cd4-0eac-326b-9379-0ded98e91680",
+      "prefLabel": "Apple Computer AB",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/e88610c1-ae34-39d3-b2f6-f964c936ff7e",
+      "id": "http://api.ft.com/things/e88610c1-ae34-39d3-b2f6-f964c936ff7e",
+      "prefLabel": "Apple Italia Srl",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/84606596-1de2-3648-9823-4384a255246b",
+      "id": "http://api.ft.com/things/84606596-1de2-3648-9823-4384a255246b",
+      "prefLabel": "Apple AB",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/83392a66-18dd-379c-a96c-af459e2b2e11",
+      "id": "http://api.ft.com/things/83392a66-18dd-379c-a96c-af459e2b2e11",
+      "prefLabel": "Apple Pty Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/06ad391d-4e3e-37d6-b8ba-0844e113f89f",
+      "id": "http://api.ft.com/things/06ad391d-4e3e-37d6-b8ba-0844e113f89f",
+      "prefLabel": "Apple Switzerland AG",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/fb899bc2-e1c3-3f2b-ad2b-4797c4ab4346",
+      "id": "http://api.ft.com/things/fb899bc2-e1c3-3f2b-ad2b-4797c4ab4346",
+      "prefLabel": "Apple Marketing Iberia SA",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/98998365-22a7-301e-804b-84308c002df8",
+      "id": "http://api.ft.com/things/98998365-22a7-301e-804b-84308c002df8",
+      "prefLabel": "Apple Computer Korea Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/fd79a7aa-7663-3f02-bafc-baa24d1d250c",
+      "id": "http://api.ft.com/things/fd79a7aa-7663-3f02-bafc-baa24d1d250c",
+      "prefLabel": "Apple France",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/00d4cf15-7269-3be8-8910-39797a02e4b5",
+      "id": "http://api.ft.com/things/00d4cf15-7269-3be8-8910-39797a02e4b5",
+      "prefLabel": "Apple Xemplar Education Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/bcc32deb-f593-3e90-bf13-6d6fc7154e2d",
+      "id": "http://api.ft.com/things/bcc32deb-f593-3e90-bf13-6d6fc7154e2d",
+      "prefLabel": "Filemaker International",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/cbcd4599-15b7-3b83-ade1-09e626bd62de",
+      "id": "http://api.ft.com/things/cbcd4599-15b7-3b83-ade1-09e626bd62de",
+      "prefLabel": "Apple Europe Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/55697e96-1229-36ca-ae8b-a0f48a2b5886",
+      "id": "http://api.ft.com/things/55697e96-1229-36ca-ae8b-a0f48a2b5886",
+      "prefLabel": "Apple (UK) Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/b4d885d8-1948-365a-a0fd-ef857cd457f9",
+      "id": "http://api.ft.com/things/b4d885d8-1948-365a-a0fd-ef857cd457f9",
+      "prefLabel": "Itunes SARL",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/f3950f6c-da7a-361d-9965-015b266bf62f",
+      "id": "http://api.ft.com/things/f3950f6c-da7a-361d-9965-015b266bf62f",
+      "prefLabel": "Apple Holding BV",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/bd9929ca-c731-3abc-acf8-f608029fef7d",
+      "id": "http://api.ft.com/things/bd9929ca-c731-3abc-acf8-f608029fef7d",
+      "prefLabel": "Claris Japan, Inc.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/0a884ed0-8ebc-36d8-b266-567de1db2781",
+      "id": "http://api.ft.com/things/0a884ed0-8ebc-36d8-b266-567de1db2781",
+      "prefLabel": "Apple Computer Japan KK",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/dd59cd03-a31a-3212-8f73-bb925b77bcfa",
+      "id": "http://api.ft.com/things/dd59cd03-a31a-3212-8f73-bb925b77bcfa",
+      "prefLabel": "Apple Computer Benelux BV",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/0ba79847-304b-30eb-a2c5-738edb9904dc",
+      "id": "http://api.ft.com/things/0ba79847-304b-30eb-a2c5-738edb9904dc",
+      "prefLabel": "Apple Computer International Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/abbc6321-435d-32ee-bb7b-75743fd80099",
+      "id": "http://api.ft.com/things/abbc6321-435d-32ee-bb7b-75743fd80099",
+      "prefLabel": "Apple Computer Italia SRL",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/2b92fc0f-bb3b-3a62-9aee-11521e1e1f89",
+      "id": "http://api.ft.com/things/2b92fc0f-bb3b-3a62-9aee-11521e1e1f89",
+      "prefLabel": "Apple Computer Mexico SA de CV",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/b54ee600-6507-3f58-bf35-7ea644658cb7",
+      "id": "http://api.ft.com/things/b54ee600-6507-3f58-bf35-7ea644658cb7",
+      "prefLabel": "Apple Computer Trading (Shanghai) Co., Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/916c6f61-8b4f-3571-adab-0bafa0760e35",
+      "id": "http://api.ft.com/things/916c6f61-8b4f-3571-adab-0bafa0760e35",
+      "prefLabel": "Emagic Soft-& Hardware GmbH",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/3bc1fdcf-8edf-3245-b1fb-749940f03447",
+      "id": "http://api.ft.com/things/3bc1fdcf-8edf-3245-b1fb-749940f03447",
+      "prefLabel": "Apple Asia LLC",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/566b329c-adc3-3472-8092-8d8485a9c388",
+      "id": "http://api.ft.com/things/566b329c-adc3-3472-8092-8d8485a9c388",
+      "prefLabel": "Apple Asia Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/849481d5-c8f1-30af-a530-78d4e93abf2b",
+      "id": "http://api.ft.com/things/849481d5-c8f1-30af-a530-78d4e93abf2b",
+      "prefLabel": "AndroMac SAS",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/8432b8dc-38a9-3a33-8aa7-c541faa9711f",
+      "id": "http://api.ft.com/things/8432b8dc-38a9-3a33-8aa7-c541faa9711f",
+      "prefLabel": "iSwitch",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/5040a6c9-610c-3109-a104-29d2a91c6d7d",
+      "id": "http://api.ft.com/things/5040a6c9-610c-3109-a104-29d2a91c6d7d",
+      "prefLabel": "Apple Outlet Co., Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/e1cab709-cb18-35cb-9676-f4cd22c3444d",
+      "id": "http://api.ft.com/things/e1cab709-cb18-35cb-9676-f4cd22c3444d",
+      "prefLabel": "Apple Computer Brasil Ltda.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/cf8b4046-0c59-3663-b37f-b30995ff6eb3",
+      "id": "http://api.ft.com/things/cf8b4046-0c59-3663-b37f-b30995ff6eb3",
+      "prefLabel": "Apple Operations Mexico SA de CV",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/ac3ab3a2-5901-39a3-8da1-b389d5c73cc1",
+      "id": "http://api.ft.com/things/ac3ab3a2-5901-39a3-8da1-b389d5c73cc1",
+      "prefLabel": "Apple Operations",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    },
+    {
+      "apiUrl": "http://test.api.ft.com/organisations/5dd3f20b-097e-3ed5-a01c-098de58cf7b3",
+      "id": "http://api.ft.com/things/5dd3f20b-097e-3ed5-a01c-098de58cf7b3",
+      "prefLabel": "LinX Computational Imaging Ltd.",
+      "types": [
+        "http://www.ft.com/ontology/organisation/Organisation"
+      ]
+    }
+  ],
+  "types": [
+    "http://www.ft.com/ontology/company/Company",
+    "http://www.ft.com/ontology/organisation/Organisation",
+    "http://www.ft.com/ontology/company/PublicCompany"
+  ]
+}
