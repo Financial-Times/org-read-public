@@ -170,7 +170,7 @@ func queryOrg(uuid string) (org apiOrganisation, found bool, err error) {
 
 func queryMemberships(uuid string) (memberships []apiMembership, err error) {
 	statement := `
-		MATCH (o:Organisation{uuid: {uuid}})-[emp:EMPLOYEE]->(m:Membership)<-[mem:MEMBERSHIP]-(p:Person)
+		MATCH (o:Organisation{uuid: {uuid}})<-[emp:HAS_ORGANISATION]-(m:Membership)-[mem:HAS_MEMBER]->(p:Person)
 		OPTIONAL MATCH (cont:Content)-[:MENTIONS]->(p), (cont)-[:MENTIONS]->(o)
 		RETURN p.prefLabel as name, p.uuid as uuid, labels(p) as labs, m.prefLabel as title, count(cont) as count 
 		order by count desc, name limit 1000
